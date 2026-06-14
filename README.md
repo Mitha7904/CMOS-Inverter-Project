@@ -139,7 +139,7 @@ The CMOS inverter was successfully designed and simulated using LTspice. The out
 
 ## Author
 
-Karthick M
+Madhumitha M
 
 Electronics and Communication Engineering (ECE)
 
